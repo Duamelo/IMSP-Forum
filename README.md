@@ -4,9 +4,9 @@ Trello board is comming
 
 ## Development Setup
 
-###Client 
+### Client 
 
-````sh
+```sh
 cd client 
 npm install
 npm run dev
